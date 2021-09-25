@@ -24,7 +24,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "A. Can Algan"
 description              : "An amazing website."
 url                      : "https://acalgan.github.io"
-baseurl                  : "/home"
+baseurl                  : #"/home"
 repository               : "acalgan/acalgan.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -284,4 +284,4 @@ defaults:
       type: pages
     values:
       layout: single
-      
+
