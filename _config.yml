@@ -285,3 +285,4 @@ defaults:
     values:
       layout: single
 
+include: ["_pages"]
