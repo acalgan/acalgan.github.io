@@ -1,4 +1,6 @@
-A
-Can
+---
+permalink: /about/
+title: "About"
+---
 
-Algan
+A. Can Algan
