@@ -24,7 +24,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "A. Can Algan"
 description              : "An amazing website."
 url                      : "https://acalgan.github.io"
-baseurl                  : #"/home"
+baseurl                  : ""
 repository               : #"acalgan/acalgan.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -61,7 +61,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -286,3 +286,4 @@ defaults:
       type: pages
     values:
       layout: single
+      author_profile: true
