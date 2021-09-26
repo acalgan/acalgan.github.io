@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /publications/
+title: "Publications"
 ---
 
 A. Can Algan
