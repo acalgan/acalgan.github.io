@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "acalgan"
+title                    : "Abdullah Can Algan"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "A. Can Algan"
-description              : "An amazing website."
+description              : "Summary about acanalgan's work, publications, projects"
 url                      : "https://acalgan.github.io"
 baseurl                  : ""
 repository               : #"acalgan/acalgan.github.io"
