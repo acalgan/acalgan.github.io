@@ -1,6 +1,6 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /cv/
+title: "CV"
 ---
 
 A. Can Algan
